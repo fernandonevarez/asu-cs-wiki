@@ -34,7 +34,7 @@ ASU's chapter of ACM, the world's largest computing society. They host tech talk
 
 ASU Online’s first and largest software engineering student organization. Open to all ASU students, both online and in person, CodeDevils provides opportunities to collaborate on projects, build professional skills, and connect with a community of developers.
 
-- Website: [Linktree](https://linktr.ee/codedevils)
+- Linktree: [linktr.ee/codedevils](https://linktr.ee/codedevils)
 
 </details>
 
